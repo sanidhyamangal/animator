@@ -41,6 +41,10 @@ python3 main.py
 ### How to Generate Images?
 Image generation can be carried out using two different methods, which are as follows:
 
+#### Downloading Checkpoints
+The latest training checkpoints can be downloaded from [gdrive](https://drive.google.com/file/d/1MmIDPlkyktsTI2uHSnal_kvkgkbnqIYG/view?usp=sharing).
+The files are in zip format. You need to unzip it in order to use it.
+
 #### Using shell
 ```bash
 python -i generate_images.py
